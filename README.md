@@ -1,2 +1,6 @@
-> 希望能够成为更好的自己
-  我叫宋志文，是一名刚入职的程序员，现在使用的语言的python，我很喜欢它，因为它的易上手，虽然我使用得并不是很熟练，但是我会努力学习，争取早日能够熟练使用。
+**HELLO!HELLO!**  
+I'm songzhiwen,a Python Engineer。&#x1f602;  
+- :memo: my segmentfault：[segmentfault](https://segmentfault.com/u/damakiller)  
+- :love_letter: my email: 1209941366@qq.com  
+- :wrench: Language：Python  
+- :microscope: my power tools：![](https://img.shields.io/badge/%E5%86%99%E4%BD%9C%E5%B7%A5%E5%85%B7-VS%20code-blue)
